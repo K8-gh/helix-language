@@ -1,0 +1,6 @@
+helix app
+pulse "Квадрат числа"
+pulse "Введите целое число и нажмите Enter:"
+sense number
+pulse "Результат:"
+pulse number * number
